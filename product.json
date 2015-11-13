@@ -1,68 +1,68 @@
 {
    "nodes" : [
       {
-         "name" : "A1",
+         "name" : "A",
          "id" : "a"
       },
       {
-         "name" : "Environment",
-         "id" : "environment_score"
+         "name" : "B",
+         "id" : "b"
       },
       {
-         "name" : "Land use",
-         "id" : "land_use_score"
+         "name" : "C",
+         "id" : "c"
       },
       {
-         "id" : "research_ingredient_177",
-         "name" : "Cocoa butter (Organic)"
+         "id" : "D",
+         "name" : "d"
       },
       {
-         "name" : "Cocoa mass (Organic)",
-         "id" : "research_ingredient_190"
+         "name" : "E",
+         "id" : "e"
       },
       {
-         "name" : "Hazelnuts (Organic)",
-         "id" : "research_ingredient_228"
+         "name" : "F",
+         "id" : "f"
       },
       {
-         "name" : "Cane sugar (Organic)",
-         "id" : "research_ingredient_283"
+         "name" : "G",
+         "id" : "g"
       },
       {
-         "name" : "Vegetables (Organic)",
-         "id" : "research_ingredient_272"
+         "name" : "H",
+         "id" : "h"
       },
       {
-         "name" : "Climate change",
-         "id" : "climate_change_score"
+         "name" : "I",
+         "id" : "i"
       },
       {
-         "id" : "harmful_substances_score",
-         "name" : "Harmful substances"
+         "id" : "J",
+         "name" : "j"
       },
       {
-         "name" : "Water use ",
-         "id" : "water_use_score"
+         "name" : "K",
+         "id" : "k"
       },
       {
-         "id" : "resource_depletion_score",
-         "name" : "Resource depletion"
+         "id" : "L",
+         "name" : "l"
       },
       {
-         "name" : "Refrigeration",
-         "id" : "refrigeration_score"
+         "name" : "M",
+         "id" : "m"
       },
       {
-         "name" : "Packaging",
-         "id" : "package_score"
+         "name" : "N",
+         "id" : "n"
       },
       {
-         "id" : "social_score",
-         "name" : "Human rights"
+         "id" : "O",
+         "name" : "o"
       },
       {
-         "name" : "Child labour",
-         "id" : "child_score"
+         "name" : "P",
+         "id" : "p"
       },
       {
          "id" : "research_ingredient_238",
