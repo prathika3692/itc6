@@ -1,8 +1,8 @@
 {
    "nodes" : [
       {
-         "name" : "Total",
-         "id" : "final_score"
+         "name" : "A",
+         "id" : "a"
       },
       {
          "name" : "Environment",
